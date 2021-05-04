@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linus-Baumann
+- 👋 Hi, I’m Linus Baumann
 
 <!---
 Linus-Baumann/Linus-Baumann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
